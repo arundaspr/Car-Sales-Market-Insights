@@ -1,0 +1,1001 @@
+id,Country,State, Language,Country_code 
+1,China,,Luxembourgish,CN
+2,China,,Swedish,CN
+3,Indonesia,,Finnish,ID
+4,Poland,,Swahili,PL
+5,Yemen,,Haitian Creole,YE
+6,Netherlands,Provincie Overijssel,Afrikaans,NL
+7,Nigeria,,Kannada,NG
+8,Brazil,,Czech,BR
+9,Czech Republic,,Luxembourgish,CZ
+10,China,,Papiamento,CN
+11,Brazil,,Malayalam,BR
+12,Indonesia,,Ndebele,ID
+13,China,,Norwegian,CN
+14,Indonesia,,Korean,ID
+15,Indonesia,,Quechua,ID
+16,Indonesia,,Bulgarian,ID
+17,China,,Macedonian,CN
+18,Sweden,Skåne,Albanian,SE
+19,Spain,Galicia,Maltese,ES
+20,Iran,,Portuguese,IR
+21,Mauritius,,Māori,MU
+22,Finland,,Finnish,FI
+23,Finland,,Japanese,FI
+24,China,,Armenian,CN
+25,China,,Gagauz,CN
+26,Russia,,Chinese,RU
+27,Sweden,Västra Götaland,Papiamento,SE
+28,China,,Dari,CN
+29,Kenya,,Dhivehi,KE
+30,Azerbaijan,,Māori,AZ
+31,Sweden,Västerbotten,Tamil,SE
+32,Poland,,Finnish,PL
+33,Indonesia,,Northern Sotho,ID
+34,Philippines,,Khmer,PH
+35,Philippines,,Haitian Creole,PH
+36,Nicaragua,,Belarusian,NI
+37,France,Bourgogne,Spanish,FR
+38,China,,Lao,CN
+39,Colombia,,Thai,CO
+40,France,Pays de la Loire,Somali,FR
+41,China,,Dutch,CN
+42,Japan,,Hindi,JP
+43,Kazakhstan,,Tajik,KZ
+44,France,Île-de-France,Amharic,FR
+45,Bosnia and Herzegovina,,Romanian,BA
+46,Croatia,,Bislama,HR
+47,Poland,,New Zealand Sign Language,PL
+48,Russia,,Pashto,RU
+49,Thailand,,Malayalam,TH
+50,China,,Burmese,CN
+51,Argentina,,Bislama,AR
+52,American Samoa,,Northern Sotho,AS
+53,Indonesia,,Tetum,ID
+54,China,,Tajik,CN
+55,Indonesia,,Marathi,ID
+56,Palestinian Territory,,Zulu,PS
+57,China,,Kyrgyz,CN
+58,Mongolia,,Aymara,MN
+59,China,,Thai,CN
+60,Czech Republic,,Spanish,CZ
+61,Finland,,Icelandic,FI
+62,Greece,,Hungarian,GR
+63,France,Bretagne,Tamil,FR
+64,China,,Filipino,CN
+65,Mexico,Guerrero,Bosnian,MX
+66,Thailand,,Telugu,TH
+67,Greece,,Finnish,GR
+68,China,,Bengali,CN
+69,Serbia,,Khmer,RS
+70,Germany,Nordrhein-Westfalen,Bosnian,DE
+71,Philippines,,Bosnian,PH
+72,Russia,,Ndebele,RU
+73,Ukraine,,Haitian Creole,UA
+74,Colombia,,Romanian,CO
+75,Indonesia,,Lao,ID
+76,Ukraine,,Guaraní,UA
+77,China,,Kazakh,CN
+78,Colombia,,Portuguese,CO
+79,Poland,,Arabic,PL
+80,Slovenia,,Croatian,SI
+81,Russia,,Kannada,RU
+82,Portugal,Aveiro,Kashmiri,PT
+83,Serbia,,Lao,RS
+84,Croatia,,Bengali,HR
+85,Indonesia,,Fijian,ID
+86,Madagascar,,Czech,MG
+87,Sweden,Blekinge,Tsonga,SE
+88,China,,Hiri Motu,CN
+89,Poland,,Telugu,PL
+90,China,,Croatian,CN
+91,Indonesia,,Dhivehi,ID
+92,Afghanistan,,Swedish,AF
+93,China,,Hiri Motu,CN
+94,Uganda,,Oriya,UG
+95,France,Aquitaine,Dari,FR
+96,China,,Marathi,CN
+97,China,,Quechua,CN
+98,Sweden,Stockholm,Catalan,SE
+99,China,,Filipino,CN
+100,France,Île-de-France,Armenian,FR
+101,Brazil,,Kurdish,BR
+102,China,,Pashto,CN
+103,China,,Armenian,CN
+104,Ireland,,Latvian,IE
+105,Indonesia,,Arabic,ID
+106,Syria,,Kashmiri,SY
+107,Poland,,Yiddish,PL
+108,Azerbaijan,,Bengali,AZ
+109,Czech Republic,,Swedish,CZ
+110,Philippines,,Belarusian,PH
+111,Portugal,Porto,Luxembourgish,PT
+112,China,,Papiamento,CN
+113,Cuba,,Danish,CU
+114,Argentina,,Hiri Motu,AR
+115,Argentina,,Kannada,AR
+116,Ukraine,,Kyrgyz,UA
+117,Indonesia,,Azeri,ID
+118,China,,Georgian,CN
+119,Indonesia,,Gagauz,ID
+120,Russia,,Dutch,RU
+121,France,Champagne-Ardenne,Gujarati,FR
+122,Philippines,,Fijian,PH
+123,France,Bourgogne,Maltese,FR
+124,Pakistan,,Tajik,PK
+125,Philippines,,Khmer,PH
+126,China,,Hindi,CN
+127,Chad,,Chinese,TD
+128,Indonesia,,Gagauz,ID
+129,Philippines,,Polish,PH
+130,China,,Maltese,CN
+131,Russia,,Maltese,RU
+132,China,,Filipino,CN
+133,Indonesia,,Aymara,ID
+134,Palestinian Territory,,Swahili,PS
+135,Russia,,Lao,RU
+136,Colombia,,French,CO
+137,Poland,,Marathi,PL
+138,China,,New Zealand Sign Language,CN
+139,Syria,,Kurdish,SY
+140,China,,Swedish,CN
+141,Sweden,Västra Götaland,English,SE
+142,Venezuela,,German,VE
+143,Russia,,Bengali,RU
+144,China,,Greek,CN
+145,China,,New Zealand Sign Language,CN
+146,Colombia,,Oriya,CO
+147,Canada,Québec,Haitian Creole,CA
+148,China,,Icelandic,CN
+149,Tanzania,,Punjabi,TZ
+150,Indonesia,,German,ID
+151,Sweden,Östergötland,Mongolian,SE
+152,Portugal,Braga,Norwegian,PT
+153,Indonesia,,Estonian,ID
+154,Georgia,,Mongolian,GE
+155,Philippines,,Guaraní,PH
+156,China,,Albanian,CN
+157,Peru,,Maltese,PE
+158,Syria,,Danish,SY
+159,South Africa,,Papiamento,ZA
+160,Russia,,Hungarian,RU
+161,Philippines,,French,PH
+162,Poland,,Czech,PL
+163,Belgium,Wallonie,Belarusian,BE
+164,France,Haute-Normandie,Estonian,FR
+165,Ukraine,,Burmese,UA
+166,Portugal,Porto,Dari,PT
+167,Vietnam,,Māori,VN
+168,China,,Oriya,CN
+169,Slovenia,,Hiri Motu,SI
+170,Tunisia,,Mongolian,TN
+171,Sweden,Halland,Albanian,SE
+172,United States,New York,Amharic,US
+173,China,,German,CN
+174,Russia,,Spanish,RU
+175,Yemen,,Assamese,YE
+176,China,,Hebrew,CN
+177,Netherlands,Provincie Overijssel,Bengali,NL
+178,Afghanistan,,Tajik,AF
+179,Philippines,,Finnish,PH
+180,Ukraine,,Dari,UA
+181,Russia,,Georgian,RU
+182,China,,Indonesian,CN
+183,China,,Dutch,CN
+184,Serbia,,Thai,RS
+185,Russia,,Georgian,RU
+186,Uzbekistan,,Ndebele,UZ
+187,Serbia,,Bulgarian,RS
+188,Ukraine,,Filipino,UA
+189,Croatia,,Hebrew,HR
+190,Czech Republic,,Hindi,CZ
+191,Portugal,Braga,Hiri Motu,PT
+192,Philippines,,New Zealand Sign Language,PH
+193,China,,Kashmiri,CN
+194,China,,Estonian,CN
+195,Indonesia,,Romanian,ID
+196,Honduras,,Afrikaans,HN
+197,United Kingdom,England,Indonesian,GB
+198,China,,Kurdish,CN
+199,Peru,,West Frisian,PE
+200,Brazil,,Marathi,BR
+201,Thailand,,Dutch,TH
+202,Sri Lanka,,Hebrew,LK
+203,China,,Aymara,CN
+204,Austria,Steiermark,Belarusian,AT
+205,Indonesia,,Aymara,ID
+206,Portugal,Lisboa,Finnish,PT
+207,China,,Kyrgyz,CN
+208,Mali,,Filipino,ML
+209,Indonesia,,Tok Pisin,ID
+210,Canada,Ontario,Telugu,CA
+211,Colombia,,Bosnian,CO
+212,Russia,,Tetum,RU
+213,Bulgaria,,Persian,BG
+214,Colombia,,Kyrgyz,CO
+215,Russia,,Catalan,RU
+216,China,,Quechua,CN
+217,China,,Norwegian,CN
+218,Czech Republic,,Gagauz,CZ
+219,Thailand,,Dutch,TH
+220,Mauritius,,Kazakh,MU
+221,Indonesia,,Greek,ID
+222,Indonesia,,Swahili,ID
+223,United States,Florida,Portuguese,US
+224,Tunisia,,Spanish,TN
+225,Brazil,,New Zealand Sign Language,BR
+226,France,Île-de-France,Indonesian,FR
+227,Indonesia,,Greek,ID
+228,Philippines,,Lao,PH
+229,Vietnam,,Hindi,VN
+230,Aland Islands,,Romanian,AX
+231,Poland,,Dhivehi,PL
+232,Egypt,,Kannada,EG
+233,Argentina,,Croatian,AR
+234,Vietnam,,French,VN
+235,Czech Republic,,French,CZ
+236,France,Bretagne,Dhivehi,FR
+237,Macedonia,,Macedonian,MK
+238,China,,Irish Gaelic,CN
+239,Vietnam,,Swedish,VN
+240,Netherlands,Provincie Noord-Holland,Finnish,NL
+241,Indonesia,,Macedonian,ID
+242,Macedonia,,Haitian Creole,MK
+243,China,,Kashmiri,CN
+244,Canada,Ontario,Italian,CA
+245,China,,Aymara,CN
+246,Luxembourg,,Swahili,LU
+247,United States,Michigan,Armenian,US
+248,Indonesia,,Pashto,ID
+249,Canada,Ontario,Kashmiri,CA
+250,Indonesia,,Somali,ID
+251,Latvia,,Albanian,LV
+252,Benin,,Kazakh,BJ
+253,Japan,,Zulu,JP
+254,France,Franche-Comté,Polish,FR
+255,Malawi,,Kannada,MW
+256,Panama,,Kurdish,PA
+257,Ukraine,,Dutch,UA
+258,China,,Catalan,CN
+259,China,,Burmese,CN
+260,China,,Thai,CN
+261,Mexico,Coahuila De Zaragoza,Aymara,MX
+262,Armenia,,Bosnian,AM
+263,Armenia,,Maltese,AM
+264,Philippines,,Albanian,PH
+265,Vietnam,,French,VN
+266,Portugal,Santarém,Icelandic,PT
+267,Philippines,,Marathi,PH
+268,China,,Kashmiri,CN
+269,China,,Montenegrin,CN
+270,Macedonia,,Tetum,MK
+271,China,,Haitian Creole,CN
+272,Russia,,Hungarian,RU
+273,China,,Kannada,CN
+274,Poland,,Swedish,PL
+275,Philippines,,Lithuanian,PH
+276,Colombia,,Swedish,CO
+277,Thailand,,German,TH
+278,Portugal,Coimbra,Maltese,PT
+279,Peru,,English,PE
+280,France,Provence-Alpes-Côte d'Azur,Spanish,FR
+281,France,Corse,Albanian,FR
+282,Western Sahara,,Korean,EH
+283,China,,Aymara,CN
+284,Barbados,,West Frisian,BB
+285,Nigeria,,Norwegian,NG
+286,Ireland,,Oriya,IE
+287,Philippines,,Korean,PH
+288,Philippines,,Moldovan,PH
+289,China,,Mongolian,CN
+290,France,Île-de-France,Afrikaans,FR
+291,Syria,,Latvian,SY
+292,Indonesia,,Estonian,ID
+293,United States,Pennsylvania,Icelandic,US
+294,Philippines,,Punjabi,PH
+295,Philippines,,Tsonga,PH
+296,Portugal,Porto,Khmer,PT
+297,Guinea,,Kashmiri,GN
+298,Guatemala,,Quechua,GT
+299,Indonesia,,Arabic,ID
+300,Afghanistan,,Haitian Creole,AF
+301,Philippines,,Swati,PH
+302,Mexico,Coahuila De Zaragoza,Greek,MX
+303,China,,Kazakh,CN
+304,Ireland,,Burmese,IE
+305,Palestinian Territory,,Kannada,PS
+306,Colombia,,Malayalam,CO
+307,Peru,,Arabic,PE
+308,Portugal,Viana do Castelo,Thai,PT
+309,Indonesia,,Kyrgyz,ID
+310,Spain,Andalucia,Nepali,ES
+311,Brazil,,Czech,BR
+312,Indonesia,,Armenian,ID
+313,Luxembourg,,Bosnian,LU
+314,Sweden,Västra Götaland,Tamil,SE
+315,United States,Ohio,Persian,US
+316,Venezuela,,Dutch,VE
+317,Russia,,Gujarati,RU
+318,China,,Belarusian,CN
+319,Brazil,,German,BR
+320,Syria,,Azeri,SY
+321,Anguilla,,Tsonga,AI
+322,United States,California,Croatian,US
+323,Indonesia,,Pashto,ID
+324,China,,Swahili,CN
+325,Indonesia,,Somali,ID
+326,Brazil,,Icelandic,BR
+327,Serbia,,Dutch,RS
+328,Paraguay,,Gujarati,PY
+329,China,,Tok Pisin,CN
+330,China,,Estonian,CN
+331,New Caledonia,,Somali,NC
+332,China,,Northern Sotho,CN
+333,Peru,,Czech,PE
+334,Pakistan,,Luxembourgish,PK
+335,Brazil,,Amharic,BR
+336,Philippines,,Papiamento,PH
+337,Hungary,Budapest,Latvian,HU
+338,Philippines,,Albanian,PH
+339,France,Provence-Alpes-Côte d'Azur,Yiddish,FR
+340,Jordan,,Greek,JO
+341,China,,French,CN
+342,China,,Tswana,CN
+343,Indonesia,,Finnish,ID
+344,China,,Arabic,CN
+345,Indonesia,,Thai,ID
+346,Tanzania,,Montenegrin,TZ
+347,Chile,,Finnish,CL
+348,Tanzania,,Hungarian,TZ
+349,Brazil,,Papiamento,BR
+350,Honduras,,Persian,HN
+351,Argentina,,Icelandic,AR
+352,China,,West Frisian,CN
+353,Thailand,,Fijian,TH
+354,Vietnam,,Thai,VN
+355,Russia,,Kashmiri,RU
+356,Thailand,,Yiddish,TH
+357,Indonesia,,Fijian,ID
+358,China,,French,CN
+359,Russia,,Portuguese,RU
+360,United States,Texas,Swati,US
+361,United States,Colorado,Chinese,US
+362,Russia,,Dutch,RU
+363,Peru,,Spanish,PE
+364,China,,Italian,CN
+365,Russia,,Bosnian,RU
+366,Papua New Guinea,,Estonian,PG
+367,Russia,,Kurdish,RU
+368,Brazil,,Burmese,BR
+369,Portugal,Ilha de São Miguel,Estonian,PT
+370,Chile,,Gagauz,CL
+371,Russia,,Guaraní,RU
+372,Russia,,Yiddish,RU
+373,Micronesia,,Hiri Motu,FM
+374,Japan,,Bengali,JP
+375,Russia,,Malayalam,RU
+376,China,,Haitian Creole,CN
+377,Afghanistan,,Moldovan,AF
+378,China,,Belarusian,CN
+379,Macedonia,,Afrikaans,MK
+380,Ukraine,,Italian,UA
+381,Slovenia,,Haitian Creole,SI
+382,Brazil,,Georgian,BR
+383,China,,Japanese,CN
+384,Australia,South Australia,Thai,AU
+385,Ukraine,,Spanish,UA
+386,Philippines,,Kazakh,PH
+387,Peru,,Latvian,PE
+388,Lithuania,,Norwegian,LT
+389,China,,Burmese,CN
+390,China,,Bulgarian,CN
+391,Sweden,Västra Götaland,Azeri,SE
+392,Turkmenistan,,Lithuanian,TM
+393,France,Provence-Alpes-Côte d'Azur,Nepali,FR
+394,Barbados,,Persian,BB
+395,Macedonia,,Pashto,MK
+396,France,Île-de-France,Bengali,FR
+397,Croatia,,Irish Gaelic,HR
+398,Portugal,Porto,Thai,PT
+399,Czech Republic,,Malayalam,CZ
+400,Thailand,,Swahili,TH
+401,Portugal,Faro,Oriya,PT
+402,Portugal,Évora,Persian,PT
+403,Mexico,Tamaulipas,Arabic,MX
+404,Malaysia,Pulau Pinang,French,MY
+405,Indonesia,,Tajik,ID
+406,Nicaragua,,Fijian,NI
+407,China,,Pashto,CN
+408,Poland,,Telugu,PL
+409,Brazil,,Macedonian,BR
+410,China,,Malayalam,CN
+411,Russia,,Lao,RU
+412,Indonesia,,Tamil,ID
+413,Venezuela,,Korean,VE
+414,Poland,,Armenian,PL
+415,China,,Norwegian,CN
+416,China,,Kurdish,CN
+417,France,Franche-Comté,Guaraní,FR
+418,Poland,,Fijian,PL
+419,France,Languedoc-Roussillon,Aymara,FR
+420,China,,Korean,CN
+421,Poland,,Dzongkha,PL
+422,Poland,,Kazakh,PL
+423,Russia,,Bulgarian,RU
+424,Papua New Guinea,,Tswana,PG
+425,China,,Dhivehi,CN
+426,Indonesia,,Kurdish,ID
+427,Indonesia,,Dutch,ID
+428,China,,Swati,CN
+429,Paraguay,,Swedish,PY
+430,Portugal,Viana do Castelo,Burmese,PT
+431,Colombia,,Malay,CO
+432,Brazil,,Tsonga,BR
+433,China,,Gagauz,CN
+434,Indonesia,,Khmer,ID
+435,China,,Gagauz,CN
+436,Japan,,Nepali,JP
+437,Poland,,Azeri,PL
+438,Russia,,Gujarati,RU
+439,Gabon,,Spanish,GA
+440,Latvia,,Chinese,LV
+441,Chile,,Tswana,CL
+442,Vietnam,,Northern Sotho,VN
+443,Bosnia and Herzegovina,,Kurdish,BA
+444,Luxembourg,,English,LU
+445,Brazil,,Somali,BR
+446,Czech Republic,,Swati,CZ
+447,Philippines,,Finnish,PH
+448,Morocco,,Māori,MA
+449,China,,Japanese,CN
+450,Indonesia,,Estonian,ID
+451,Indonesia,,Montenegrin,ID
+452,Croatia,,Malagasy,HR
+453,France,Provence-Alpes-Côte d'Azur,German,FR
+454,Philippines,,Korean,PH
+455,Indonesia,,Swedish,ID
+456,Cuba,,Amharic,CU
+457,Poland,,English,PL
+458,Mexico,Oaxaca,Estonian,MX
+459,Peru,,New Zealand Sign Language,PE
+460,China,,Bulgarian,CN
+461,Bulgaria,,Catalan,BG
+462,Sweden,Stockholm,Lao,SE
+463,Tanzania,,Croatian,TZ
+464,Czech Republic,,Kazakh,CZ
+465,Czech Republic,,Albanian,CZ
+466,Russia,,Icelandic,RU
+467,Thailand,,Georgian,TH
+468,Nicaragua,,Marathi,NI
+469,Philippines,,Hungarian,PH
+470,Indonesia,,Spanish,ID
+471,Colombia,,Norwegian,CO
+472,Sweden,Västmanland,Moldovan,SE
+473,Canada,Québec,Hindi,CA
+474,China,,Bengali,CN
+475,San Marino,,Dari,SM
+476,Kenya,,Dutch,KE
+477,Tanzania,,Arabic,TZ
+478,Philippines,,New Zealand Sign Language,PH
+479,China,,Latvian,CN
+480,Japan,,Catalan,JP
+481,Indonesia,,Arabic,ID
+482,China,,Dzongkha,CN
+483,Bosnia and Herzegovina,,West Frisian,BA
+484,Norway,Oslo,Indonesian,NO
+485,Kazakhstan,,Burmese,KZ
+486,Russia,,German,RU
+487,Portugal,Viseu,Malay,PT
+488,Indonesia,,Tsonga,ID
+489,Russia,,Oriya,RU
+490,Philippines,,Telugu,PH
+491,China,,Macedonian,CN
+492,China,,Spanish,CN
+493,Portugal,Lisboa,Dutch,PT
+494,Brazil,,Georgian,BR
+495,Peru,,Tamil,PE
+496,Thailand,,Amharic,TH
+497,Philippines,,Hindi,PH
+498,Portugal,Guarda,Romanian,PT
+499,Poland,,Pashto,PL
+500,China,,Dari,CN
+501,Democratic Republic of the Congo,,Malayalam,CD
+502,China,,Indonesian,CN
+503,Thailand,,Finnish,TH
+504,Indonesia,,Icelandic,ID
+505,Russia,,Lithuanian,RU
+506,Russia,,Portuguese,RU
+507,Russia,,Amharic,RU
+508,China,,Tajik,CN
+509,Canada,Prince Edward Island,Mongolian,CA
+510,China,,Dzongkha,CN
+511,China,,Moldovan,CN
+512,Indonesia,,Bengali,ID
+513,China,,Albanian,CN
+514,Slovenia,,Somali,SI
+515,Poland,,Mongolian,PL
+516,China,,New Zealand Sign Language,CN
+517,Philippines,,Persian,PH
+518,Thailand,,Bosnian,TH
+519,United States,Texas,Croatian,US
+520,China,,Icelandic,CN
+521,Indonesia,,Somali,ID
+522,Russia,,Macedonian,RU
+523,Indonesia,,Lithuanian,ID
+524,Poland,,Spanish,PL
+525,Mexico,Chihuahua,Maltese,MX
+526,Indonesia,,Punjabi,ID
+527,Indonesia,,Indonesian,ID
+528,Argentina,,Azeri,AR
+529,Honduras,,Assamese,HN
+530,Finland,,Sotho,FI
+531,Thailand,,Norwegian,TH
+532,South Africa,,Papiamento,ZA
+533,China,,Nepali,CN
+534,South Africa,,Kurdish,ZA
+535,Malawi,,Tamil,MW
+536,China,,Irish Gaelic,CN
+537,Chad,,Georgian,TD
+538,Serbia,,Guaraní,RS
+539,China,,Arabic,CN
+540,United States,Michigan,Albanian,US
+541,Brazil,,Marathi,BR
+542,Sweden,Västra Götaland,Dhivehi,SE
+543,China,,Norwegian,CN
+544,Russia,,Indonesian,RU
+545,France,Île-de-France,Japanese,FR
+546,South Korea,,Tajik,KR
+547,China,,Icelandic,CN
+548,Argentina,,Swati,AR
+549,China,,Nepali,CN
+550,China,,Hiri Motu,CN
+551,China,,Kurdish,CN
+552,Indonesia,,Hindi,ID
+553,China,,Estonian,CN
+554,Brazil,,Tetum,BR
+555,China,,Catalan,CN
+556,North Korea,,Norwegian,KP
+557,Brazil,,Azeri,BR
+558,Indonesia,,Filipino,ID
+559,Armenia,,Luxembourgish,AM
+560,Indonesia,,Malayalam,ID
+561,Germany,Niedersachsen,French,DE
+562,Portugal,Leiria,Swahili,PT
+563,Indonesia,,Māori,ID
+564,France,Auvergne,Chinese,FR
+565,United States,Texas,Latvian,US
+566,Japan,,Swahili,JP
+567,Indonesia,,Luxembourgish,ID
+568,Albania,,Bislama,AL
+569,Poland,,New Zealand Sign Language,PL
+570,Indonesia,,Dutch,ID
+571,Portugal,Viana do Castelo,Lithuanian,PT
+572,Cuba,,Burmese,CU
+573,Portugal,Beja,Bengali,PT
+574,Norway,Troms,Assamese,NO
+575,Indonesia,,Polish,ID
+576,Indonesia,,Quechua,ID
+577,Poland,,Tswana,PL
+578,France,Provence-Alpes-Côte d'Azur,Azeri,FR
+579,China,,Bengali,CN
+580,Thailand,,Norwegian,TH
+581,Sweden,Stockholm,Tetum,SE
+582,Ecuador,,Swati,EC
+583,Pakistan,,Filipino,PK
+584,Greece,,Macedonian,GR
+585,Indonesia,,Malagasy,ID
+586,Russia,,Pashto,RU
+587,Pakistan,,Swedish,PK
+588,Philippines,,Malayalam,PH
+589,Brazil,,Marathi,BR
+590,Portugal,Viana do Castelo,Swedish,PT
+591,China,,Irish Gaelic,CN
+592,Germany,Nordrhein-Westfalen,Quechua,DE
+593,Indonesia,,Latvian,ID
+594,Ukraine,,English,UA
+595,Tanzania,,Sotho,TZ
+596,Indonesia,,Armenian,ID
+597,Portugal,Setúbal,Montenegrin,PT
+598,Indonesia,,Armenian,ID
+599,Macedonia,,Irish Gaelic,MK
+600,Poland,,Burmese,PL
+601,Serbia,,Tetum,RS
+602,France,Auvergne,Marathi,FR
+603,Philippines,,Georgian,PH
+604,Ukraine,,Tsonga,UA
+605,Philippines,,Hebrew,PH
+606,Indonesia,,Yiddish,ID
+607,Russia,,French,RU
+608,North Korea,,Gujarati,KP
+609,Belarus,,Mongolian,BY
+610,China,,Afrikaans,CN
+611,France,Provence-Alpes-Côte d'Azur,Swedish,FR
+612,Poland,,New Zealand Sign Language,PL
+613,Latvia,,Maltese,LV
+614,Colombia,,Greek,CO
+615,Russia,,Spanish,RU
+616,China,,Kashmiri,CN
+617,Albania,,Tok Pisin,AL
+618,Micronesia,,Irish Gaelic,FM
+619,Czech Republic,,Kazakh,CZ
+620,France,Bourgogne,Romanian,FR
+621,Peru,,Dari,PE
+622,Ukraine,,Lao,UA
+623,New Caledonia,,Maltese,NC
+624,Dominican Republic,,French,DO
+625,Poland,,Czech,PL
+626,Indonesia,,Burmese,ID
+627,Sweden,Dalarna,Latvian,SE
+628,Yemen,,Kannada,YE
+629,Oman,,Sotho,OM
+630,Russia,,Guaraní,RU
+631,Indonesia,,Somali,ID
+632,Tanzania,,Quechua,TZ
+633,Syria,,Yiddish,SY
+634,Faroe Islands,,Tok Pisin,FO
+635,Sierra Leone,,Latvian,SL
+636,Poland,,Swedish,PL
+637,Latvia,,German,LV
+638,Madagascar,,Gagauz,MG
+639,South Africa,,Dhivehi,ZA
+640,Poland,,Azeri,PL
+641,Venezuela,,New Zealand Sign Language,VE
+642,China,,Czech,CN
+643,Brazil,,Dutch,BR
+644,Burkina Faso,,Papiamento,BF
+645,Ukraine,,Malayalam,UA
+646,Indonesia,,Estonian,ID
+647,Philippines,,Irish Gaelic,PH
+648,Indonesia,,Estonian,ID
+649,China,,Khmer,CN
+650,Brazil,,Nepali,BR
+651,China,,Arabic,CN
+652,China,,Hungarian,CN
+653,France,Lorraine,Spanish,FR
+654,Somalia,,Bengali,SO
+655,Greece,,Oriya,GR
+656,Sweden,Västra Götaland,Kyrgyz,SE
+657,Mexico,Mexico,Kannada,MX
+658,Indonesia,,Māori,ID
+659,South Korea,,Thai,KR
+660,Thailand,,Malayalam,TH
+661,Macedonia,,Assamese,MK
+662,Canada,Manitoba,Dhivehi,CA
+663,France,Provence-Alpes-Côte d'Azur,New Zealand Sign Language,FR
+664,China,,Northern Sotho,CN
+665,China,,Thai,CN
+666,France,Centre,Pashto,FR
+667,China,,Khmer,CN
+668,China,,Latvian,CN
+669,Indonesia,,Papiamento,ID
+670,North Korea,,Quechua,KP
+671,Mexico,Guanajuato,Danish,MX
+672,Czech Republic,,Kashmiri,CZ
+673,Portugal,Coimbra,Latvian,PT
+674,Poland,,Punjabi,PL
+675,France,Rhône-Alpes,Romanian,FR
+676,Brazil,,Arabic,BR
+677,United States,Virginia,Latvian,US
+678,Russia,,Lao,RU
+679,Indonesia,,Georgian,ID
+680,Palestinian Territory,,Croatian,PS
+681,France,Languedoc-Roussillon,Ndebele,FR
+682,Philippines,,Bislama,PH
+683,Indonesia,,Swahili,ID
+684,Argentina,,West Frisian,AR
+685,Albania,,Haitian Creole,AL
+686,China,,Korean,CN
+687,Morocco,,Tsonga,MA
+688,Afghanistan,,Ndebele,AF
+689,Russia,,Kyrgyz,RU
+690,Vietnam,,Moldovan,VN
+691,China,,Kashmiri,CN
+692,Ivory Coast,,Sotho,CI
+693,China,,Icelandic,CN
+694,Mexico,Veracruz Llave,Kashmiri,MX
+695,China,,Dutch,CN
+696,Philippines,,Georgian,PH
+697,Philippines,,Indonesian,PH
+698,South Sudan,,Montenegrin,SS
+699,Bhutan,,Latvian,BT
+700,Bangladesh,,Tajik,BD
+701,Saint Pierre and Miquelon,,Hiri Motu,PM
+702,Brazil,,Gujarati,BR
+703,Tanzania,,German,TZ
+704,Portugal,Viseu,Gagauz,PT
+705,Czech Republic,,Oriya,CZ
+706,Venezuela,,Thai,VE
+707,Macedonia,,Dzongkha,MK
+708,Honduras,,Dhivehi,HN
+709,Indonesia,,Swahili,ID
+710,Serbia,,Lao,RS
+711,Venezuela,,Bengali,VE
+712,Kenya,,West Frisian,KE
+713,Norway,Aust-Agder,Bislama,NO
+714,Tunisia,,Belarusian,TN
+715,China,,Dari,CN
+716,Philippines,,Guaraní,PH
+717,Poland,,Tetum,PL
+718,Poland,,West Frisian,PL
+719,Portugal,Guarda,Pashto,PT
+720,Poland,,German,PL
+721,United States,Texas,Marathi,US
+722,China,,Icelandic,CN
+723,Greece,,Filipino,GR
+724,Thailand,,Lithuanian,TH
+725,China,,Korean,CN
+726,Grenada,,Irish Gaelic,GD
+727,Thailand,,Malay,TH
+728,Indonesia,,Icelandic,ID
+729,Ukraine,,Swati,UA
+730,China,,Haitian Creole,CN
+731,Philippines,,Tok Pisin,PH
+732,France,Centre,Fijian,FR
+733,Vietnam,,Papiamento,VN
+734,Albania,,Kannada,AL
+735,Philippines,,Yiddish,PH
+736,Russia,,Dari,RU
+737,Malaysia,Selangor,Latvian,MY
+738,China,,Croatian,CN
+739,China,,Icelandic,CN
+740,Spain,Castilla - Leon,Gagauz,ES
+741,Portugal,Santarém,Lao,PT
+742,Vietnam,,Tajik,VN
+743,Canada,British Columbia,Swedish,CA
+744,Argentina,,Gujarati,AR
+745,China,,Northern Sotho,CN
+746,Armenia,,Fijian,AM
+747,Myanmar,,Georgian,MM
+748,Afghanistan,,Tsonga,AF
+749,Argentina,,Macedonian,AR
+750,China,,Sotho,CN
+751,Argentina,,Burmese,AR
+752,China,,Aymara,CN
+753,Peru,,Filipino,PE
+754,Greece,,Korean,GR
+755,Russia,,Amharic,RU
+756,Russia,,Kazakh,RU
+757,Croatia,,Persian,HR
+758,China,,Bengali,CN
+759,China,,Estonian,CN
+760,United States,California,Luxembourgish,US
+761,Portugal,Aveiro,Estonian,PT
+762,China,,Croatian,CN
+763,Brazil,,Montenegrin,BR
+764,Indonesia,,Luxembourgish,ID
+765,China,,Guaraní,CN
+766,Peru,,Armenian,PE
+767,China,,Chinese,CN
+768,South Korea,,Marathi,KR
+769,Sweden,Örebro,Georgian,SE
+770,China,,Northern Sotho,CN
+771,Micronesia,,Sotho,FM
+772,Philippines,,Greek,PH
+773,China,,Haitian Creole,CN
+774,France,Île-de-France,Croatian,FR
+775,Poland,,Quechua,PL
+776,Russia,,Irish Gaelic,RU
+777,Kyrgyzstan,,Ndebele,KG
+778,Peru,,Dhivehi,PE
+779,Ukraine,,Albanian,UA
+780,Egypt,,Nepali,EG
+781,China,,Georgian,CN
+782,Sweden,Jönköping,Italian,SE
+783,United States,Iowa,Polish,US
+784,South Africa,,Māori,ZA
+785,Kenya,,Zulu,KE
+786,Brazil,,Korean,BR
+787,Vietnam,,Kannada,VN
+788,Jamaica,,Japanese,JM
+789,China,,Malayalam,CN
+790,Serbia,,Estonian,RS
+791,China,,Danish,CN
+792,Mexico,Veracruz Llave,Bosnian,MX
+793,Sweden,Södermanland,Irish Gaelic,SE
+794,Yemen,,Macedonian,YE
+795,Slovenia,,Nepali,SI
+796,France,Bretagne,Tok Pisin,FR
+797,Indonesia,,Dzongkha,ID
+798,Philippines,,Tswana,PH
+799,Poland,,Kazakh,PL
+800,Kosovo,,Kurdish,XK
+801,Western Sahara,,Belarusian,EH
+802,Portugal,Leiria,Mongolian,PT
+803,Peru,,Telugu,PE
+804,Philippines,,Quechua,PH
+805,Afghanistan,,Tswana,AF
+806,Greece,,Tetum,GR
+807,Ukraine,,Finnish,UA
+808,Portugal,Porto,Belarusian,PT
+809,Guatemala,,Tswana,GT
+810,China,,Montenegrin,CN
+811,Poland,,Chinese,PL
+812,Comoros,,Marathi,KM
+813,Ethiopia,,Swahili,ET
+814,Philippines,,Bulgarian,PH
+815,Indonesia,,Punjabi,ID
+816,China,,Maltese,CN
+817,France,Rhône-Alpes,Hebrew,FR
+818,Indonesia,,Punjabi,ID
+819,China,,Belarusian,CN
+820,Tanzania,,Papiamento,TZ
+821,Tajikistan,,Kazakh,TJ
+822,France,Alsace,Kyrgyz,FR
+823,China,,Lithuanian,CN
+824,Colombia,,Yiddish,CO
+825,Thailand,,Bengali,TH
+826,Indonesia,,Tswana,ID
+827,Sweden,Skåne,Bengali,SE
+828,Poland,,Armenian,PL
+829,Indonesia,,Lao,ID
+830,China,,French,CN
+831,Indonesia,,German,ID
+832,Poland,,Yiddish,PL
+833,China,,Icelandic,CN
+834,United States,New York,Latvian,US
+835,Indonesia,,Persian,ID
+836,Russia,,Kashmiri,RU
+837,China,,English,CN
+838,Georgia,,Tok Pisin,GE
+839,Cuba,,Belarusian,CU
+840,China,,Georgian,CN
+841,Sweden,Stockholm,Filipino,SE
+842,Mexico,Tamaulipas,Kurdish,MX
+843,Argentina,,Finnish,AR
+844,Philippines,,Hiri Motu,PH
+845,Azerbaijan,,Japanese,AZ
+846,China,,Norwegian,CN
+847,Macedonia,,Irish Gaelic,MK
+848,China,,Assamese,CN
+849,Philippines,,Marathi,PH
+850,China,,Aymara,CN
+851,Philippines,,Hindi,PH
+852,Indonesia,,Gujarati,ID
+853,Portugal,Leiria,Azeri,PT
+854,Micronesia,,Estonian,FM
+855,Finland,,Hebrew,FI
+856,Indonesia,,Māori,ID
+857,Indonesia,,Azeri,ID
+858,France,Aquitaine,Montenegrin,FR
+859,Philippines,,Hungarian,PH
+860,Philippines,,Greek,PH
+861,Russia,,Bulgarian,RU
+862,China,,Sotho,CN
+863,China,,Portuguese,CN
+864,Indonesia,,Tsonga,ID
+865,Bulgaria,,Lithuanian,BG
+866,Finland,,Telugu,FI
+867,Colombia,,Spanish,CO
+868,Portugal,Ilha de São Jorge,Kazakh,PT
+869,Ukraine,,Kazakh,UA
+870,Philippines,,Czech,PH
+871,Indonesia,,Belarusian,ID
+872,Malaysia,Pulau Pinang,German,MY
+873,Mauritius,,Italian,MU
+874,Mexico,Veracruz Llave,Punjabi,MX
+875,Greece,,Danish,GR
+876,Botswana,,French,BW
+877,Argentina,,Portuguese,AR
+878,Japan,,Gagauz,JP
+879,United States,Louisiana,Hiri Motu,US
+880,Indonesia,,Zulu,ID
+881,Tuvalu,,Mongolian,TV
+882,Indonesia,,Mongolian,ID
+883,Cuba,,Northern Sotho,CU
+884,Russia,,Italian,RU
+885,Brazil,,Malagasy,BR
+886,China,,Khmer,CN
+887,Peru,,Kashmiri,PE
+888,Indonesia,,Icelandic,ID
+889,Poland,,Malay,PL
+890,Brazil,,Quechua,BR
+891,Brazil,,Kashmiri,BR
+892,Belarus,,Zulu,BY
+893,Croatia,,Mongolian,HR
+894,Ukraine,,Polish,UA
+895,United Kingdom,Scotland,Assamese,GB
+896,Haiti,,Greek,HT
+897,Czech Republic,,Hindi,CZ
+898,Montenegro,,Mongolian,ME
+899,Indonesia,,Swedish,ID
+900,Indonesia,,Swahili,ID
+901,Philippines,,Nepali,PH
+902,Australia,New South Wales,Tetum,AU
+903,Indonesia,,Japanese,ID
+904,Poland,,Irish Gaelic,PL
+905,Israel,,Spanish,IL
+906,Philippines,,Luxembourgish,PH
+907,China,,Swedish,CN
+908,Brazil,,Tok Pisin,BR
+909,Indonesia,,Aymara,ID
+910,Brazil,,Gagauz,BR
+911,Saudi Arabia,,Quechua,SA
+912,Indonesia,,Afrikaans,ID
+913,Poland,,Kyrgyz,PL
+914,Philippines,,Hindi,PH
+915,Indonesia,,Moldovan,ID
+916,Luxembourg,,Hungarian,LU
+917,Tuvalu,,Chinese,TV
+918,Portugal,Viana do Castelo,Maltese,PT
+919,Senegal,,Catalan,SN
+920,China,,Montenegrin,CN
+921,Poland,,Dhivehi,PL
+922,Honduras,,Danish,HN
+923,Philippines,,Kannada,PH
+924,Zimbabwe,,Bulgarian,ZW
+925,China,,Burmese,CN
+926,Russia,,Montenegrin,RU
+927,Peru,,Tajik,PE
+928,Indonesia,,Aymara,ID
+929,Indonesia,,Armenian,ID
+930,Ukraine,,Bengali,UA
+931,Sweden,Uppsala,Malay,SE
+932,China,,Moldovan,CN
+933,Dominican Republic,,Filipino,DO
+934,China,,Kurdish,CN
+935,Finland,,Macedonian,FI
+936,Palestinian Territory,,Tajik,PS
+937,Brazil,,Lao,BR
+938,Greece,,Finnish,GR
+939,China,,Albanian,CN
+940,Saudi Arabia,,Romanian,SA
+941,Azerbaijan,,Portuguese,AZ
+942,China,,Hungarian,CN
+943,Philippines,,Italian,PH
+944,Indonesia,,Czech,ID
+945,Vietnam,,Belarusian,VN
+946,North Korea,,Finnish,KP
+947,Indonesia,,Arabic,ID
+948,Yemen,,Dari,YE
+949,Portugal,Setúbal,Malayalam,PT
+950,China,,Estonian,CN
+951,Syria,,Marathi,SY
+952,Philippines,,Polish,PH
+953,Bulgaria,,Oriya,BG
+954,Portugal,Lisboa,Burmese,PT
+955,Vietnam,,Bengali,VN
+956,Philippines,,Catalan,PH
+957,France,Aquitaine,Thai,FR
+958,Indonesia,,Kannada,ID
+959,China,,Dutch,CN
+960,Portugal,Lisboa,Amharic,PT
+961,Venezuela,,Thai,VE
+962,Russia,,Spanish,RU
+963,Portugal,Viana do Castelo,English,PT
+964,Thailand,,Luxembourgish,TH
+965,Afghanistan,,Malayalam,AF
+966,Argentina,,Punjabi,AR
+967,Indonesia,,Tamil,ID
+968,Kyrgyzstan,,Khmer,KG
+969,Brazil,,Greek,BR
+970,Djibouti,,Dari,DJ
+971,China,,Malayalam,CN
+972,Canada,Québec,Catalan,CA
+973,Poland,,Hiri Motu,PL
+974,Indonesia,,Tetum,ID
+975,Thailand,,Aymara,TH
+976,Bulgaria,,Tswana,BG
+977,Syria,,Papiamento,SY
+978,Colombia,,Spanish,CO
+979,Poland,,Burmese,PL
+980,Brazil,,Kashmiri,BR
+981,Peru,,Spanish,PE
+982,Philippines,,Greek,PH
+983,China,,Romanian,CN
+984,Belarus,,Kannada,BY
+985,China,,Swahili,CN
+986,Sweden,Västra Götaland,Amharic,SE
+987,Finland,,Swati,FI
+988,Russia,,Indonesian,RU
+989,United States,Nevada,Hungarian,US
+990,Thailand,,Khmer,TH
+991,Philippines,,Malay,PH
+992,China,,Kurdish,CN
+993,Poland,,Guaraní,PL
+994,China,,Hindi,CN
+995,Ukraine,,Quechua,UA
+996,Russia,,Dutch,RU
+997,Germany,Berlin,Gagauz,DE
+998,China,,Belarusian,CN
+999,China,,Romanian,CN
+1000,Spain,Pais Vasco,English,ES
