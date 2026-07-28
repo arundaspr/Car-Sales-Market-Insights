@@ -7,9 +7,11 @@
 The dashboard transforms raw car, product, and country-level datasets into an interactive business intelligence report that provides a clear overview of key sales and market performance indicators.
 
 ---
+
 ## 📸 Dashboard Preview
 
-![Car Sales & Market Insights Dashboard](car-sales-and-market-insights.png)
+![Car Sales & Market Insights Dashboard](./car-sales-and-market-insights.png)
+
 ---
 
 ## 🎯 Project Objectives
