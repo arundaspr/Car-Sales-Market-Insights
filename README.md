@@ -9,7 +9,7 @@ The dashboard transforms raw car, product, and country-level datasets into an in
 ---
 ## 📸 Dashboard Preview
 
-![Car Sales & Market Insights Dashboard](car%20sales%20and%20market%20insight.png)
+![Car Sales & Market Insights Dashboard](car sales and market insight.png)
 
 ---
 
